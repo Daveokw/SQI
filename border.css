@@ -1,0 +1,21 @@
+.dii{
+    border: 4px solid rebeccapurple;
+    padding: 20px;
+    margin: 60px; 
+    /* visibility: hidden; */
+    background-image: linear-gradient(120deg,rgba(0,4,66,0) 0%,#000442 70%),url("../IMG/DSC_9054-scaled.jpg");
+}
+
+span{
+    border: 2px solid gray;
+    margin: 50px;
+    padding: 30px;
+    display: block;
+
+}
+.hii{
+    background-image: linear-gradient(120deg,rgba(0,4,1,0) 0%,#000442 100%),url("../IMG/DSC_9054-scaled.jpg");
+    width: 300px;
+    height: 300px;
+    display: block;
+}

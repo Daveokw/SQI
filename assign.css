@@ -1,0 +1,30 @@
+
+.backgrd{
+    /* background-image: url("../IMG/DSC_9054-scaled.jpg"); */
+    background-image: linear-gradient(120deg,rgba(0,4,66,0) 0%,#000442 70%),url("../IMG/DSC_9054-scaled.jpg");
+    display: flex; 
+    padding: 4% 2%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.hen{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serifx;
+    color: white;
+    font-weight: lighter;
+}
+.ten{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-weight: bolder;
+}
+.bton{
+    background-color: #00208a;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 4%;
+    border-radius: 200px;
+    border: none;
+    font-size: large;
+    font-weight: bold;
+}
